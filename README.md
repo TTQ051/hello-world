@@ -1,2 +1,6 @@
-# hello-world
-A repository for testing.
+# __hello-world__
+## _A repository for testing._
+
+![The video of `Rubia`][video]
+[video]: https://www.bilibili.com/video/BV1Yv4y1o7dw
+
